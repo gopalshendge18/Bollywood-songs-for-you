@@ -457,5 +457,15 @@
     "singer":["B Praak"],
     "genre": ["Romantic"],
     "link":"https://youtu.be/DUwlGduupRI":
+},
+{
+    "id": 44,
+    "name":"Maanjha",
+    "lyrices":"http://www.bollymeaning.com/2013/01/maanjha-manjha-lyrics-translation-kai.html",
+    "album":"Kai Po Che",
+    "Duration":"2:55",
+    "singer":["Amit Trivedi, Mohan Kanan"],
+    "genre": ["Motivational"],
+    "link":"https://youtu.be/YKcmMmJlKNk":
 }
 ]
